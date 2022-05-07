@@ -61,9 +61,9 @@ django==4.0.1
 etc...`
 
 
-###To install everything at once from the `requirements.txt`, run the command:
+### To install everything at once from the `requirements.txt`, run the command:
 `pip3 install -r requirements.txt`
 
 
-### To force uninstall a folder from local reposistory:
-`rm -fr <folder name>`
+### To force delete a folder or file from within a repository:
+`rm -fr 'file or folder name'`
