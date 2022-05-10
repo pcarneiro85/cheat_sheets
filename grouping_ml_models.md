@@ -14,7 +14,6 @@ _*preprocessing steps will be probably required. This all helps to sharply decre
 ## Popular Ways to Group ML Algorithms
 
 ![image](https://user-images.githubusercontent.com/93443489/167527824-2483ab33-405b-49af-bb57-50abfc129277.png)
-![image](https://user-images.githubusercontent.com/93443489/167528490-6c4cc3cb-beae-4aad-9a8d-cbdf4e4ad932.png)
 
 ![image](https://user-images.githubusercontent.com/93443489/167528544-61fb68d0-7c35-46be-b6a2-d070a98f25f5.png)
 
