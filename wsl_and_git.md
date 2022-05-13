@@ -35,8 +35,13 @@ Enables you to see the files that are changed in your project
 
 
 ### To pull the changes available in remote repository:
-git pull 
+`git pull`
 
+### To see list of commits
+`git log --oneline`
+
+### To go back to a desireble commit
+`git reset <commit code> --soft or --hard` hard excludes alterations done after the commit, soft does not.
 
 ### Create `.gitignore.txt` file that points to the folder I want git to ignore:
 write inside the file: `venv/` (to ignore the venv directory)
