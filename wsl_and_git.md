@@ -72,3 +72,20 @@ etc...`
 
 ### To force delete a folder or file from within a repository:
 `rm -fr 'file or folder name'`
+
+
+# Installing a new Python version inside a conda environent
+
+No manual download is needed, conda will do that for you.
+
+## Now create an environment for the Python version you want. 
+In this example I will use 3.5.2, because it it the latest version at this time of writing (Aug 2016).
+
+`conda create -n py35 python=3.5.2`
+Will create a environment for conda to install packages
+
+## To activate this environment (I'm assuming linux otherwise check the conda docs):
+`source activate py35`
+
+## Now install what you need either via pip or conda in the environemnt (conda has better binary package support).
+`conda install <package_name>`
